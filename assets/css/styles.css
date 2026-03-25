@@ -1,0 +1,21 @@
+body {
+  background: #f5f7fb;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, #0d6efd 0%, #4f8dfd 100%);
+}
+
+.card {
+  border: none;
+}
+
+#directoryTree {
+  max-height: 460px;
+  overflow-y: auto;
+}
+
+.contact-row {
+  padding: 0.4rem 0;
+  font-size: 1.05rem;
+}
